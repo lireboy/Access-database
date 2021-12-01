@@ -1,0 +1,11 @@
+Release notes 01.12.:
+
+- Im Formular Kontakte: 
+	- Schnellsuche wurde vom Detailbereich zum Kopf verschoben um mehr Platz zu schaffen
+	- Die Ferlder wurden breiter gemacht
+	- Bestimmte Felder wo mehr Info stehen könnte sind größer und scrollbar
+- Im Formular Schnellansicht:
+	- Feld "Institution" ist nun auch scrollbar nach dem an es angeklickt hat
+- Di Executable wurde von 64bit Version zur 32bit Version umgewandelt und kompiliert, sodass die Kundin das Programm benutzen kann.
+
+	 
