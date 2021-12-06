@@ -1,0 +1,13 @@
+Release notes 06.12.:
+
+- Migration der Dateien aus dem Excel Dokument
+	- Datensätze importieren
+	- Datensätze anpassen
+	- Datentypen überprüfen
+	- Feld "Webseite" wurde hinzugefügt und mit Daten angereichert
+	- Feld "Themenbereich" wurde in "Weitere Infos" umbenannt
+- kleinere Design Anpassungen
+- Info Bereich (in fml_Kontakte)
+	- beim klick auf das Feld "adresse" wird Diese angezeigt
+	- bim Klick auf "Datensatz löschen" wird Info leer
+	- beim Klick auf "aktualisieren/speichern" wird Info leer
