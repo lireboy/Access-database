@@ -24,3 +24,4 @@ Release notes 03.12.:
 	- Alle lvl2 user können nicht die Tabelle Institution öffnen
 	- Alle user können nicht direkt in der schnellansicht Datensätze bearbeiten (sie müssen auf bearbeiten klicken)
 
+
