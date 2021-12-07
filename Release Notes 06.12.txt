@@ -1,6 +1,6 @@
 Release notes 06.12.:
 
-- Migration der Dateien aus dem Excel Dokument
+- Migration der Dateien aus dem Excel Dokument in "tbl_Kontakte"
 	- Datensätze importieren
 	- Datensätze anpassen
 	- Datentypen überprüfen
@@ -8,6 +8,6 @@ Release notes 06.12.:
 	- Feld "Themenbereich" wurde in "Weitere Infos" umbenannt
 - kleinere Design Anpassungen
 - Info Bereich (in fml_Kontakte)
-	- beim klick auf das Feld "adresse" wird Diese angezeigt
+	- beim klick auf das Feld "Adresse" wird Diese angezeigt
 	- bim Klick auf "Datensatz löschen" wird Info leer
 	- beim Klick auf "aktualisieren/speichern" wird Info leer
